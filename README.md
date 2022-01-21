@@ -38,7 +38,7 @@ The app had a premature breakpoint that stopped the tip or total amount from bei
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
